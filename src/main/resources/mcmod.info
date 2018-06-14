@@ -1,0 +1,19 @@
+[
+{
+  "modid": "rpgthings",
+  "name": "Rpg Things",
+  "description": "A Minecraft mod which adds RPG things in your world.",
+  "version": "3.0",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "MrMilegit"
+  ],
+  "credits": "Psynaps, MrMilegit",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
